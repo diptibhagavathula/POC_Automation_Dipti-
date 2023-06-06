@@ -5,6 +5,7 @@ import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.iOSXCUITFindBy;
 import org.openqa.selenium.WebElement;
 
+//This page is for LoginPage of the app that is to be automated
 public class LoginPage extends BasePage {
 	TestUtils utils = new TestUtils();
 
