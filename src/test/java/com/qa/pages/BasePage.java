@@ -22,6 +22,7 @@ import static io.appium.java_client.touch.WaitOptions.waitOptions;
 import static io.appium.java_client.touch.offset.PointOption.point;
 import static java.time.Duration.ofMillis;
 
+//Base Page class to start the driver
 public class BasePage {
     private AppiumDriver driver;
     TestUtils utils = new TestUtils();
